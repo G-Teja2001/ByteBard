@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Portfolio & Blog',
   author: 'Golla Teja',
    headerTitle: 'MyBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  // description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
